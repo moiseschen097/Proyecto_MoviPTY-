@@ -1,0 +1,15 @@
+# MoviPTY - Aplicación de Movilidad Urbana para Panamá
+
+## Público Objetivo
+Ciudadanos panameños que usan transporte público: trabajadores, estudiantes, turistas y adultos mayores.
+
+## Problema
+La falta de información en tiempo real sobre rutas y horarios del transporte público genera retrasos, frustración y baja eficiencia en la movilidad urbana.
+
+## Solución
+MoviPTY es una app móvil multiplataforma que proporciona datos actualizados de rutas, horarios, alertas y navegación para mejorar la experiencia de viaje, con participación activa de la comunidad.
+
+## Estructura del Repositorio
+- `/canvas/` → Lean Canvas del proyecto (PDF o imagen)
+- `/legal/` → Simulación de patente, formularios legales, README legal
+- `/avances/` → Entregables anteriores (propuesta y plan de actuación)
